@@ -14,7 +14,7 @@ interface FormData {
 }
 
 
-const page = () => {
+const Page = () => {
   // {
   //   jobDescription: "",
   //   fullName: "",
@@ -317,4 +317,4 @@ ${formData}
   )
 }
 
-export default page
+export default Page
